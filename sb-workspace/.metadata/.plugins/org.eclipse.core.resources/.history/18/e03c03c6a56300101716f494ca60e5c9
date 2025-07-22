@@ -1,0 +1,6 @@
+spring.application.name=backend
+
+server.port=9191
+
+
+spring.datasource.driver-class-name=
