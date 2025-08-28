@@ -1,4 +1,5 @@
 🧑‍💼** Employee Management System**
+
 Overview:
 
 The Employee Management System is a full-stack Java web application designed to manage employee records efficiently in a corporate environment. It enables users to perform essential operations such as adding, viewing, updating, and deleting employee information through a user-friendly web interface. The system is scalable, modular, and follows a layered architecture with a clean separation of concerns.
@@ -11,6 +12,7 @@ Frontend: HTML5, CSS3, Bootstrap 5, JavaScript, React.js
 Backend: Java 17, Spring Boot, Spring MVC, Spring Data JPA
 Database: MySQL
 Tools: Visual Studio Code, Git, Postman
+
 🚀 Key Features
 
 The core functionalities include:
@@ -21,6 +23,7 @@ Search functionality based on employee name or department.
 Role-based access (optional enhancement).
 Responsive design for desktop and mobile views.
 RESTful API integration between frontend and backend.
+
 📂 Project Structure:
 
 employee-management-system/ ├── backend/ │ ├── controller/ │ ├── model/ │ ├── repository/ │ ├── service/ │ ├── EmployeeManagementSystemApplication.java │ └── application.properties ├── frontend/ │ ├── index.html / React App ├── README.md └── pom.xml
