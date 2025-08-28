@@ -60,6 +60,27 @@ You can test these APIs using Postman, curl, or your frontend.
 <img width="1814" height="721" alt="Screenshot 2025-08-28 152104" src="https://github.com/user-attachments/assets/0ee5e902-b48f-4941-8dc5-c9f1e1614f4c" />
 <img width="1732" height="885" alt="Screenshot 2025-08-28 151956" src="https://github.com/user-attachments/assets/36faa725-734c-49c8-86db-b24704af1d71" />
 
-📄 License: This project is licensed under the MIT License. You are free to use, modify, and distribute it for personal or commercial purposes.
+📚 Cite This Work:
 
-🙋‍♂️ Author & Contact Laxman konukati – Full Stack Java Developer 📧 kl752008@gmail.com If you find this project useful, please ⭐ star the repository and share it with others!
+If this project helps your research or products, please cite:
+
+@software{konukati2025cyberbullying,
+  author  = {Konukati, Laxman},
+  title   = {Deep Learning Neural Network for Cyberbullying Detection in Social Media},
+  year    = {2025},
+  url     = {https://github.com/KonukantiLaxman/my-major-project}
+
+
+📩 Contact:
+
+Laxman Konukati
+
+Email: kl752008@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/konukati-laxman-6856092a5/
+
+GitHub: https://github.com/KonukantiLaxman
+
+📝 License:
+
+This project is licensed under the MIT License — see LICENSE
